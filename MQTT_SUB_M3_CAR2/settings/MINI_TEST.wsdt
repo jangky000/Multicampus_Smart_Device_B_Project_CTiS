@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>MINI_TEST/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>148</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8710-11409</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>MINI_TEST</ExpandedNode><ExpandedNode>MINI_TEST/USER</ExpandedNode><ExpandedNode>MINI_TEST/USER/01.inc</ExpandedNode><ExpandedNode>MINI_TEST/USER/02.device</ExpandedNode><ExpandedNode>MINI_TEST/USER/03.app</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8187-11418</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-24603-14181</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\socket.h</Filename><XPos>0</XPos><YPos>388</YPos><SelStart>7391</SelStart><SelEnd>7391</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\ethernet.c</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>1898</SelStart><SelEnd>1902</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\socket.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>3266</SelStart><SelEnd>3266</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\libemqtt.c</Filename><XPos>0</XPos><YPos>178</YPos><SelStart>4943</SelStart><SelEnd>4943</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_spi.c</Filename><XPos>0</XPos><YPos>234</YPos><SelStart>8522</SelStart><SelEnd>8522</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>10</SelStart><SelEnd>23</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\macro.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>635</SelStart><SelEnd>635</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\device_driver.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>1602</SelStart><SelEnd>1602</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\timer.c</Filename><XPos>0</XPos><YPos>231</YPos><SelStart>5818</SelStart><SelEnd>5838</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>230</YPos><SelStart>6418</SelStart><SelEnd>6418</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\key.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>413</SelStart><SelEnd>413</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\led.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>10</SelStart><SelEnd>23</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\i2c.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>10</SelStart><SelEnd>23</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\st7735.c</Filename><XPos>0</XPos><YPos>560</YPos><SelStart>14503</SelStart><SelEnd>14503</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\option.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>283</SelStart><SelEnd>283</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\libemqtt.h</Filename><XPos>0</XPos><YPos>138</YPos><SelStart>4839</SelStart><SelEnd>4839</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\main.c</Filename><XPos>0</XPos><YPos>410</YPos><SelStart>10625</SelStart><SelEnd>10629</SelEnd></Tab><ActiveTab>16</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-002dc090><key>iaridepm.enu1</key></Toolbar-002dc090></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>476</Bottom><Right>222</Right><x>-2</x><y>-2</y><xscreen>458</xscreen><yscreen>102</yscreen><sizeHorzCX>485169</sizeHorzCX><sizeHorzCY>154545</sizeHorzCY><sizeVertCX>237288</sizeVertCX><sizeVertCY>724242</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>139</Bottom><Right>946</Right><x>-2</x><y>-2</y><xscreen>948</xscreen><yscreen>141</yscreen><sizeHorzCX>1004237</sizeHorzCX><sizeHorzCY>213636</sizeHorzCY><sizeVertCX>485169</sizeVertCX><sizeVertCY>154545</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
